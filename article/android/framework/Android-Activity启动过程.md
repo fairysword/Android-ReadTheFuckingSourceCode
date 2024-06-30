@@ -8,7 +8,7 @@
 
 - ActivityThread 是什么，它是一个线程吗，如何被启动的？
 - ActivityClientRecord 与 ActivityRecord 是什么？
-- Context 是什么，ContextImpl，ContextWapper 是什么？
+- Context 是什么，ContextImpl，ContextWrapper 是什么？
 - Instrumentation 是什么？
 - Application 是什么，什么时候创建的，每个应用程序有几个 Application？
 - 点击 Launcher 启动 Activity 和应用内部启动 Activity 的区别？
